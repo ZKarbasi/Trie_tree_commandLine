@@ -2,10 +2,10 @@
 
 For work with this comman line, You can :
 
-ADD X to trie tree whith command =>> `add X`
+ADD X to trie tree with command =>> `add X`
 
-Find X to trie tree whith command =>> `find X`
+Find X to trie tree with command =>> `find X`
 
-Find the words that start whith X in trie tree whith command =>> `startswith X`
+Find the words that start with X in trie tree with command =>> `startswith X`
 
-Exite from cammand line whith command =>> `exit X`
+Exite from cammand line with command =>> `exit X`
