@@ -1,6 +1,6 @@
 # Trie tree command Line
 
-For work with this comman line, You can :
+For work with this command line, You can :
 
 ADD X to trie tree with command =>> `add X`
 
